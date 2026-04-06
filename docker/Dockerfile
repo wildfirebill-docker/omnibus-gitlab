@@ -1,4 +1,4 @@
-ARG BASE_IMAGE=docker.io/ubuntu:24.04
+ARG BASE_IMAGE=docker.io/debian:trixie
 FROM $BASE_IMAGE
 
 ARG BASE_IMAGE
